@@ -5,3 +5,9 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2rem;
 }
+
+img
+{
+    height: 100px;
+    width: 100px;
+}
